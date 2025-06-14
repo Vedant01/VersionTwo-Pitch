@@ -1,7 +1,7 @@
 ---
 # VersionTwo: One-Pager
 
-![[VersionTwo Logo][1]](https://github.com/Vedant01/VersionTwo-Pitch/blob/main/VersionTwo.png)
+![[VersionTwo Logo][1]](https://github.com/Vedant01/VersionTwo-Pitch/blob/main/Untitled%20design%20(4).png)
 
 ## Our Vision
 
